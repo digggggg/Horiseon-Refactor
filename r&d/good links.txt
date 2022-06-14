@@ -1,3 +1,5 @@
 https://www.w3.org/WAI/WCAG21/Understanding/intro#understanding-the-four-principles-of-accessibility: WCAG accessability standards
 
 https://www.w3schools.com/html/html5_semantic_elements.asp#:~:text=In%20HTML%20there%20are%20some%20semantic%20elements%20that,%3Cmain%3E%209%20%3Cmark%3E%2010%20%3Cnav%3E%20More%20items...%20: semantic html
+
+https://www.yourhtmlsource.com/accessibility/logicalstyle.html: logical style
