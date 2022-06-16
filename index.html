@@ -3,15 +3,14 @@
 
 <head>
     <meta charset="UTF-8" />
-    <title>Horiseon</title>
+    <title>Horiseon</title> <!--title changed to Horiseon-->
     <link rel="stylesheet" href="./assets/css/style.css">
     
 </head>
 
 <body>
-    <div class="header">
-        <header>
-            <h1>Hori<span class="seo">seo</span>n</h1>
+        <header> <!--semantic html added, removed redundent header class-->
+            <h1>Hori<span class="seol">seo</span>n</h1> <!--updated class name-->
             <div>
                 <ul>
                     <li>
@@ -26,11 +25,10 @@
                 </ul>
             </div>
         </header> 
-    </div>
     <div class="hero"></div>
-    <div class="content">
-        <section>
-            <div class="search-engine-optimization">
+    <content> <!--removed content class and used semantic html, alt tags for all images were added-->
+        <section><!--semantic html added-->
+            <div class="seo"><!--removed unused id lines 33, 42, 51-->
                 <img src="./assets/images/search-engine-optimization.jpg" class="float-left" alt="Journal that shows how Search engine optimization can help boost social media, mobile compatability and more!" />
                 <h2>Search Engine Optimization</h2>
                 <p>
@@ -38,8 +36,8 @@
                 </p>
             </div>
         </section>
-        <section>
-            <div id="online-reputation-management" class="online-reputation-management">
+        <section> <!--semantic html added-->
+            <div class="seo"><!-- renamed class for section divs-->
                 <img src="./assets/images/online-reputation-management.jpg" class="float-right" alt="Laptop showing that online Reputation trends up using SEO technology"/>
                 <h2>Online Reputation Management</h2>
                 <p>
@@ -47,8 +45,8 @@
                 </p>
             </div>
         </section>
-        <section>
-            <div id="social-media-marketing" class="social-media-marketing">
+        <section> <!--semantic html added-->
+            <div class="seo">
                 <img src="./assets/images/social-media-marketing.jpg" class="float-left" alt="Social media related phrases on a table showing SEO technology can assist with it"/>
                 <h2>Social Media Marketing</h2>
                 <p>
@@ -56,24 +54,24 @@
                 </p>
             </div>
         </section>
-    </div>
-    <div class="benefits">
-        <aside>
-            <div class="benefit-lead">
+    </content>
+    
+        <aside> <!--semantic html added, removed benefits class-->
+            <div class="btmc">
                 <h3>Lead Generation</h3>
                 <img src="./assets/images/lead-generation.png" alt="image showing the concept of lead generation making money"/>
                 <p>
                     Inbound strategies for lead generation require less work for your business, bringing customers directly to your website.
                 </p>
             </div>
-            <div class="benefit-brand">
+            <div class="btmc">
                 <h3>Brand Awareness</h3>
                 <img src="./assets/images/brand-awareness.png" alt="image showing a lightbulb on an executives head signifying brand awareness"/>
                 <p>
                     Users find your business through paid and organic searches, increasing the search ranking and visibility for your business.
                 </p>
             </div>
-            <div class="benefit-cost">
+            <div class="btmc">
                 <h3>Cost Management</h3>
                 <img src="./assets/images/cost-management.png" alt="gears and dollar signs signifying cost management"/>
                 <p>
@@ -81,28 +79,14 @@
                 </p>
             </div>
         </aside>
-    </div>
-    <div class="footer">
-        <footer>
+    
+        <footer> <!--semantic html added, removed footer class-->
             <h2>Made with ❤️️ by Horiseon</h2>
             <p>
                 &copy; 2019 Horiseon Social Solution Services, Inc.
             </p>
         </footer>
-    </div>
 </body>
 
 </html>
 
-
-<!-- GIVEN a webpage meets accessibility standards
-WHEN I view the source code
-THEN I find semantic HTML elements DONE
-WHEN I view the structure of the HTML elements
-THEN I find that the elements follow a logical structure independent of styling and positioning
-WHEN I view the icon and image elements
-THEN I find accessible alt attributes DONE
-WHEN I view the heading attributes
-THEN they fall in sequential order
-WHEN I view the title element
-THEN I find a concise, descriptive title DONE -->
