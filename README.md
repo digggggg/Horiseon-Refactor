@@ -2,7 +2,7 @@
 
 ## Description
 
-Using WCAG 2.1 accessabilty guidelines I did a refactor on the website without changing the pages original look. I consolidated unecessary css, using semantic html, fixing the title tag, and adding alt images were done to improve the accessability to the website. Vscode is the primary IDE I use in conjunction with Github to fix the issues quickly.
+Using WCAG 2.1 accessabilty guidelines I did a refactor on the website without changing the pages original look. Fixing the title tag, removing unecessary css, adding html, and adding alts to iamges were done to improve the accessability to the website. Vscode is the primary IDE I use in conjunction with Github to fix the issues quickly.
 
 ## Table of Contents
 
