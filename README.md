@@ -18,8 +18,8 @@ Git clone repository
 
 ## Usage 
 
-![screenshot1 of page](assets/images/screenshot1.png)
-![screenshot2 of page](assets/images/screenshot2.png)
+![screenshot of page 1](assets/images/screenshot1.png)
+![screenshot of page 2](assets/images/screenshot2.png)
 
 Click index.html to open the webpage. 
 
