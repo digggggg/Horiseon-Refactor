@@ -29,13 +29,13 @@ Jerome Chenette
 
 
 ## License
-
-![License](./License)
+[LICENSE](/LICENSE.md)
 
 ## Badges
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![html 66.4%](https://img.shields.io/badge/html-66.4%25-blue)
 ![css 33.6% ](https://img.shields.io/badge/css-33.6%25-red)
 ![github](https://img.shields.io/badge/Github-Git-gray)
+
 
 
