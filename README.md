@@ -21,7 +21,7 @@ Git clone repository
 ![screenshot of page 1](assets/images/screenshot1.PNG)
 ![screenshot of page 2](assets/images/screenshot2.PNG)
 
-Click index.html to open the webpage. 
+Git clone repository and then open the index.html file.
 
 ## Credits
 
